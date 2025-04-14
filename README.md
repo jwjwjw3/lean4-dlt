@@ -1,4 +1,4 @@
-# lean4 for Deep Learning Theory
+# Lean 4 for Deep Learning Theory
 Repo for some examples of Graduate-level math theorems in Deep Learning Theory (main theme: Math for AI). All theorems posted are already formally verified.
 The majority of topics will follow the e-book: https://mjt.cs.illinois.edu/dlt/two.pdf
 
